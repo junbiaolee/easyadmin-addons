@@ -1,14 +1,14 @@
 {
-    "name": "karsonzhang/fastadmin-addons",
-    "description": "addons package for fastadmin",
-    "homepage": "https://github.com/karsonzhang/fastadmin-addons",
+    "name": "junbiaolee/easyadmin-addons",
+    "description": "addons package for easyadmin",
+    "homepage": "https://github.com/junbiaolee/easyadmin-addons",
     "license": "Apache-2.0",
     "minimum-stability": "dev",
     "version": "1.0.1",
     "authors": [
         {
-            "name": "karsonzhang",
-            "email": "karsonzhang@163.com"
+            "name": "vincentlee",
+            "email": "4865806@qq.com"
         },
         {
             "name": "xiaobo.sun",
@@ -16,7 +16,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/karsonzhang/fastadmin-addons/issues"
+        "issues": "https://github.com/junbiaolee/easyadmin-addons/issues"
     },
     "require": {
         "php": ">=5.4.0",

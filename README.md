@@ -1,8 +1,5 @@
-# fastamin-addons
-FastAdmin插件模块
-
-## 使用方法
-http://doc.fastadmin.net/docs/addons.html
+# easyamin-addons
+EasyAdmin插件模块
 
 ## 特别感谢
 特别感谢https://github.com/5ini99/think-addons
